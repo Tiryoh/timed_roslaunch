@@ -1,4 +1,6 @@
-# timed_roslaunch [![Build Status](https://travis-ci.org/MoriKen254/timed_roslaunch.svg?branch)](https://travis-ci.org/MoriKen254/timed_roslaunch) 
+# timed_roslaunch 
+
+[![industrial_ci](https://github.com/Tiryoh/timed_roslaunch/actions/workflows/industrial_ci.yaml/badge.svg)](https://github.com/Tiryoh/timed_roslaunch/actions/workflows/industrial_ci.yaml)
 
 This script can delay the launch of a roslaunch file.
 
