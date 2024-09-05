@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package timed_roslaunch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0.2.0 (2024-09-05)
+------------------
+* Update maintainer
+* Use GitHub Actions
+* Add "output" option to launch `#20 <https://github.com/MoriKen254/timed_roslaunch/pull/20>`_
 
 0.1.1 (2020-04-22)
 ------------------
